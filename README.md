@@ -29,6 +29,11 @@ Trata-se de uma **Calculadora de IMC (Índice de Massa Corporal)**, que permite:
 - **Google Fonts** – Fontes “Luckiest Guy” (título) e “Poppins” (texto).
 
 ---
+## Link Repositório
+https://github.com/CPFrontEnd/CP4-IMC.git
 
+---
 
+## Link do Deploy no Versel
+https://cp-4-imc.vercel.app/
 
