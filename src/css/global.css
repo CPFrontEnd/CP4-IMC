@@ -13,3 +13,9 @@
   --cor4: #da69d6;
   --cor5: #f889f3;
 }
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background: var(--cor5);
+  color: var(--cor1);
+}
