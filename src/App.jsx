@@ -1,4 +1,5 @@
 import { useState } from "react"
+import Swal from "sweetalert2";
 import Header from "./components/Header"
 import Resultado from "./components/Resultado";
 import './css/estilo.css'
