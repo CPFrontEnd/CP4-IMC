@@ -26,7 +26,7 @@ const calcularImc = (e) => {
       icon: "warning",
       title: "Atenção",
       text: "Por favor digite valores válidos",
-      confirmButtonColor: "#7e097e", // cor da paleta do projeto
+      confirmButtonColor: "#7e097e", 
       confirmButtonText: "Ok"
     });
     setMostrarResultado(false);
