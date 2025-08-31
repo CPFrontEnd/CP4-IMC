@@ -13,3 +13,29 @@
   width: 100%;
   max-width: 500px;
 }
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+label {
+  font-weight: 500;
+  color: var(--cor1);
+  margin-bottom: 5px;
+}
+
+input {
+  padding: 10px;
+  border: 2px solid var(--cor3);
+  border-radius: 8px;
+  font-size: 1rem;
+  outline: none;
+  transition: 0.2s;
+}
+
+input:focus {
+  border-color: var(--cor2);
+  box-shadow: 0 0 5px var(--cor2);
+}
