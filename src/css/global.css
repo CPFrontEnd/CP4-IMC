@@ -5,3 +5,11 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+:root {
+  --cor1: #7e097e;
+  --cor2: #9d299b;
+  --cor3: #bb49b8;
+  --cor4: #da69d6;
+  --cor5: #f889f3;
+}
