@@ -34,6 +34,6 @@ https://github.com/CPFrontEnd/CP4-IMC.git
 
 ---
 
-## Link do Deploy no Versel
+## Link do Deploy no Vercel
 https://cp-4-imc.vercel.app/
 
