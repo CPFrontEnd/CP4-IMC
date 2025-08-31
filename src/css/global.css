@@ -19,3 +19,15 @@ body {
   background: var(--cor5);
   color: var(--cor1);
 }
+
+
+/* RESPONSIVIDADE */
+@media (max-width: 1024px) {
+  body {
+    font-size: 0.95rem; 
+  }
+
+  .container {
+    padding: 20px;      
+  }
+}

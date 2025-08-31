@@ -44,3 +44,16 @@
 .tabelaBody tr:nth-child(even) {
   background-color: var(--cor5);
 }
+
+
+/* RESPONSIVIDADE */
+@media (max-width: 1024px) {
+  .tabela h2 {
+    font-size: 1.6rem; 
+  }
+
+  .tabela table, .tabela th, .tabela td {
+    font-size: 0.95rem; 
+    padding: 8px;
+  }
+}

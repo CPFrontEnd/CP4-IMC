@@ -13,3 +13,13 @@
   text-shadow: 2px 2px var(--cor3);
 }
 
+/*RESPONSVIDADE*/
+@media (max-width: 1024px) {
+  .header h1 {
+    font-size: 2rem;   
+  }
+
+  .header {
+    padding: 15px;     
+  }
+}
