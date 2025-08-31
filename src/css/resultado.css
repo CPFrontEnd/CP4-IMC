@@ -1,3 +1,5 @@
+/* resultado.css */
+
 .tabela {
   margin: 20px auto;
   padding: 15px;
@@ -12,4 +14,33 @@
   font-size: 1.8rem;
   margin-bottom: 15px;
   color: var(--cor1);
+}
+
+.imcSpan {
+  color: var(--cor3);
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.tabela table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.tabelaHeader th {
+  background: var(--cor2);
+  color: white;
+  padding: 10px;
+  font-weight: 600;
+}
+
+.tabelaBody td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  font-size: 1rem;
+}
+
+.tabelaBody tr:nth-child(even) {
+  background-color: var(--cor5);
 }
