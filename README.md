@@ -1,12 +1,34 @@
-# React + Vite
+# Calculadora IMC - Projeto Acadêmico Fiap
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Aluna:** Giovana Bernardino Carnevali (RM 566196)  
+**Instituição:** FIAP  
+**Professor Orientador:** Wellington Cidade Silva Tenorio  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📝 Sobre o Projeto
 
-## Expanding the ESLint configuration
+Este projeto foi desenvolvido como atividade acadêmica na FIAP.  
+O objetivo principal era **estilizar interface de um projeto construído em sala de aula**, aplicando cores, fontes e elementos visuais para melhorar a experiência do usuário.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Trata-se de uma **Calculadora de IMC (Índice de Massa Corporal)**, que permite:  
+
+- Inserir altura e peso.  
+- Calcular o IMC automaticamente.  
+- Exibir o resultado em destaque.  
+- Visualizar a classificação do IMC em tabela.  
+- Receber alertas caso os valores inseridos sejam inválidos.
+
+---
+
+## 🎨 Tecnologias Utilizadas
+
+- **React.js** – Biblioteca para construção do frontend.  
+- **CSS3** – Para estilização do layout, formulários e tabelas.  
+- **SweetAlert2** – Para alertas estilizados e modernos.  
+- **Google Fonts** – Fontes “Luckiest Guy” (título) e “Poppins” (texto).
+
+---
+
+
+
